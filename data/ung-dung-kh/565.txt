@@ -1,0 +1,1 @@
+<p><strong>Khi lên dốc chỉ cần để số D, xe sẽ tự động về số hợp lý, còn khi xuống dốc cần chuyển sang số tay.</strong></p>

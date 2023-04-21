@@ -1,0 +1,2 @@
+<p><strong>Thiết bị trông giống như camera thông thường nhưng nó ghi nhận lượng hồng ngoại phát ra từ vật thể sinh nhiệt, trong phạm vi tối đa 5m.</strong></p><p><video controls="controls" height="320" width="640">
+<source src="http://khoahoc.tv/photos/file/2020/02/18/may-do-than-nhiet-tai-san-bay.mp4" type="video/mp4"/></video></p>
